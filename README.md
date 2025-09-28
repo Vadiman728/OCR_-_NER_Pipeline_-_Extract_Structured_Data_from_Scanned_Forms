@@ -1,0 +1,1 @@
+# OCR_-_NER_Pipeline_-_Extract_Structured_Data_from_Scanned_Forms
